@@ -654,8 +654,24 @@
 \newenvironment{cvitems_2}{%
   \vspace{-4.0mm}
   \begin{justify}
-  \setlength{\columnseprule}{0.6pt}
+%  \setlength{\columnseprule}{0.6pt}
   \begin{multicols}{3}
+  \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
+    \setlength{\parskip}{0pt}
+    \renewcommand{\labelitemi}{\bullet}
+}{%
+  \end{itemize}
+   \end{multicols}
+  \end{justify}
+  \vspace{-4.0mm}
+}
+
+% Define an environment for cvitems_3(for cventry)
+\newenvironment{cvitems_3}{%
+  \vspace{-4.0mm}
+  \begin{justify}
+%  \setlength{\columnseprule}{0.6pt}
+  \begin{multicols}{2}
   \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
     \setlength{\parskip}{0pt}
     \renewcommand{\labelitemi}{\bullet}
