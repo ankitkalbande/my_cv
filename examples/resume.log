@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  22 OCT 2017 21:11
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  8 NOV 2017 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1001,6 +1001,55 @@ tly
 LaTeX Info: Redefining \FA on input line 164.
 \g_fontspec_family_Roboto_int=\count170
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count171
+\mult@box=\box63
+Normal \dimen register pool exhausted, switching to extended pool.
+\multicol@leftmargin=\dimen256
+\c@unbalance=\count172
+\c@collectmore=\count173
+\doublecol@number=\count174
+\multicoltolerance=\count175
+\multicolpretolerance=\count176
+\full@width=\dimen257
+\page@free=\dimen258
+\premulticols=\dimen259
+\postmulticols=\dimen260
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
+\partial@page=\box64
+\last@line=\box65
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@gfirstbox=\box68
+\mult@firstbox=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\c@columnbadness=\count177
+\c@finalcolumnbadness=\count178
+\last@try=\dimen261
+\multicolovershoot=\dimen262
+\multicolundershoot=\dimen263
+\mult@nat@firstbox=\box87
+\colbreak@box=\box88
+\multicol@sort@counter=\count179
+)
 Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
 
 (examples/resume.aux)
@@ -1072,7 +1121,7 @@ LaTeX Info: Redefining \selectfont on input line 76.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\g_fontspec_family_latinmodern-math.otf_int=\count171
+\g_fontspec_family_latinmodern-math.otf_int=\count180
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -1106,7 +1155,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
 put line 76.
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box63
+\AtBeginShipoutBox=\box89
 Package hyperref Info: Link coloring OFF on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1115,7 +1164,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count172
+\c@section@level=\count181
 )
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
@@ -1125,8 +1174,8 @@ LaTeX Info: Redefining \nameref on input line 76.
 \@outlinefile=\write5
 \openout5 = `resume.out'.
 
-\headertextwidth=\skip79
-\headerphotowidth=\skip80
+\headertextwidth=\skip81
+\headerphotowidth=\skip82
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.95015pt on input line 80.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -1214,12 +1263,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 39521 strings out of 493918
- 742829 string characters out of 6150564
- 872762 words of memory out of 5000000
- 42252 multiletter control sequences out of 15000+600000
+ 39615 strings out of 493918
+ 744230 string characters out of 6150564
+ 876810 words of memory out of 5000000
+ 42343 multiletter control sequences out of 15000+600000
  6446 words of font info for 82 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 72i,11n,83p,10427b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,83p,10448b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on examples/resume.pdf (2 pages).
