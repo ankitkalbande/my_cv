@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  9 NOV 2017 01:35
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  14 NOV 2017 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1050,8 +1050,6 @@ Normal \dimen register pool exhausted, switching to extended pool.
 \colbreak@box=\box88
 \multicol@sort@counter=\count179
 )
-Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
-
 (examples/resume.aux)
 \openout1 = `resume.aux'.
 
@@ -1192,10 +1190,6 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 80.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/sc' will be
 (Font)              scaled to size 7.6pt on input line 80.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 80.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 80.
 
 Overfull \hbox (1.47461pt too wide) in paragraph at lines 80--81
 []$[]$ $[]$$[]$
@@ -1213,9 +1207,6 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 10.
-Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
-Missing character: There is no � in font [SourceSansPro-Light.otf]/ICU:script=l
-atn;language=DFLT;mapping=tex-text;+pnum;!
 ) (examples/resume/education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 31.
@@ -1240,42 +1231,24 @@ ut line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 31.
 )
-(examples/resume/experience.tex
-Invalid UTF-8 byte or sequence at line 15 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 20 replaced by U+FFFD.
-Missing character: There is no � in font [SourceSansPro-Bold.otf]/ICU:script=la
-tn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no � in font [SourceSansPro-Light.otf]/ICU:script=l
-atn;language=DFLT;mapping=tex-text;+pnum;!
- [1
+(examples/resume/experience.tex [1
 
-]) (examples/resume/skills.tex
+]
+Overfull \hbox (2.94922pt too wide) in paragraph at lines 109--125
+   [] 
+ []
+
+) (examples/resume/project.tex
+Overfull \hbox (2.94922pt too wide) in paragraph at lines 20--35
+   [] 
+ []
+
+) (examples/resume/skills.tex
 Overfull \hbox (50.8308pt too wide) in alignment at lines 10--58
 [] [] 
  []
 
-) (examples/resume/honors.tex
-Missing character: There is no ^^93 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^94 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^93 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^94 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^93 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^94 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^93 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^94 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^93 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-Missing character: There is no ^^94 in font [SourceSansPro-Light.otf]/ICU:scrip
-t=latn;language=DFLT;mapping=tex-text;+pnum;!
-) [2]
+) (examples/resume/honors.tex) [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (examples/resume.aux)
@@ -1283,11 +1256,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 39602 strings out of 493918
- 743689 string characters out of 6150564
- 876946 words of memory out of 5000000
- 42342 multiletter control sequences out of 15000+600000
- 6422 words of font info for 79 fonts, out of 8000000 for 9000
+ 39601 strings out of 493918
+ 743533 string characters out of 6150564
+ 878897 words of memory out of 5000000
+ 42340 multiletter control sequences out of 15000+600000
+ 6406 words of font info for 77 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  72i,12n,83p,10448b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 
