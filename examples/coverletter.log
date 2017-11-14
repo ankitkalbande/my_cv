@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  14 NOV 2017 09:32
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  14 NOV 2017 09:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1129,10 +1129,6 @@ LaTeX Info: Redefining \nameref on input line 96.
 \headerphotowidth=\skip80
 \photodim=\skip81
 
-(/root/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.t
-ex
-File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
-)
 
 ! Package pgfkeys Error: I do not know the key '/tikz/fill overzoom image', to 
 which you passed '\@photo ', and I am going to ignore it. Perhaps you misspelle
@@ -1263,12 +1259,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 39564 strings out of 493918
- 744633 string characters out of 6150564
- 862327 words of memory out of 5000000
- 42309 multiletter control sequences out of 15000+600000
+ 39546 strings out of 493918
+ 744121 string characters out of 6150564
+ 862321 words of memory out of 5000000
+ 42294 multiletter control sequences out of 15000+600000
  7023 words of font info for 90 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 72i,11n,83p,10432b,661s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,83p,10432b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on examples/coverletter.pdf (1 page).
