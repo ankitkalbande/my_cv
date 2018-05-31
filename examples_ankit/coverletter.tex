@@ -1,0 +1,138 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+%\photo[circle,noedge,left]{./examples/profile}
+\name{Ankit }{Kalbande}
+\position{Embedded Linux Engineer{\enskip\cdotp\enskip}Security Expert}
+\address{Helene-Mayer-Ring 7B/452, 80809 München, Germany}
+
+\mobile{(+49) 176-55155443}
+\email{ankitkalbande@gmail.com}
+\homepage{}
+\github{}
+\linkedin{ankitkalbande}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \extrainfo{extra informations}
+
+%\quote{``Be the change that you want to see in the world."}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Company Recruitment Team}
+  {Google Inc.\\1600 Amphitheatre Parkway\\Mountain View, CA 94043}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Job Application for Software Engineer}
+% How the letter is opened
+\letteropening{Dear Mr./Ms./Dr. LastName,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Curriculum Vitae}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Claud D. Park~~~Â·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+%\lettersection{About Me}
+I wish to present my candidature for the position of ’Embedded Systems Engineer -Automotive Systems’ at Intel, as the requirements for the position considerably matches with my profile.
+
+I am currently working as a full time research scholar at Lehrstuhl fur Integrierte Systeme (LIS) in Technische Universitat Munchen (TUM) from past 4 months, I had completed my graduation in Communication Engineering at TUM with 1.6 grade. During my studies and jobs, I had acquired in-depth knowledge of digital
+design and verification languages such as VHDL, Verilog and SystemC and scripting languages such as shell, TCL and perl. I had worked on wide range of EDA tools from Mentor Graphics(Modelsim), Xilinx(Vivado, ISE, Impact, Chipscope) and Synopsys(Synplify, Chipit Pro).
+
+My experience includes developing a lab module for hardware software co-design lab at Lehrstuhl fur Integrierte Systeme TUM. In this lab module, I had developed a video processing accelerator on Zynq-7000 FPGA along with its Linux driver. I had also authored the lab manual and tutored the designed lab in following
+semester. My experience also includes developing a cache coherency controller IP core for multi-tile Invasic architecture. The functionality of designed IP core was verified and prototyped on Chipit a multi-FPGA prototyping platform of Xilinx Virtex 5 FPGA.
+
+Apart from SoC design, I am having experience of firmware development in Assembler, C and C++ with wide range of microcontroller like ATmega128, Atmega8, RX62T, ARM cortex A8, ARM cortex A9 and ARM cortex M0+. I had also worked on wide range of wired and wireless communication protocols like l2c, SPI, RS232, IEEE 802.11 (WIFI), IEEE 802.15.1 (Bluetooth) etc. While developing embedded applications, I had worked on multiple vendor specific tools like Arduino, Atmel Studio, Eclipse, Netbean, Keil, e2 studio etc.
+
+I am a self-starter who can work with little or no supervision but I also possess excellent interpersonal skills with the ability to work as part of a group effectively. I would be very excited and highly grateful if I am given the opportunity to work at Intel. I am certain that I can make positive contributions to your ongoing projects and become a valuable member of your team if chosen for this job. I had attached my CV, which contains the details of my theoretical and practical training.
+
+Eagerly waiting for your reply.
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}

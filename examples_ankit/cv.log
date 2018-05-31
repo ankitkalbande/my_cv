@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  21 MAY 2018 10:58
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  8 NOV 2017 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**examples/resume.tex
-(./examples/resume.tex
+**examples/cv.tex
+(./examples/cv.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 78 languages loaded.
 (examples/awesome-cv.cls
@@ -1001,57 +1001,8 @@ tly
 LaTeX Info: Redefining \FA on input line 164.
 \g_fontspec_family_Roboto_int=\count170
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count171
-\mult@box=\box63
-Normal \dimen register pool exhausted, switching to extended pool.
-\multicol@leftmargin=\dimen256
-\c@unbalance=\count172
-\c@collectmore=\count173
-\doublecol@number=\count174
-\multicoltolerance=\count175
-\multicolpretolerance=\count176
-\full@width=\dimen257
-\page@free=\dimen258
-\premulticols=\dimen259
-\postmulticols=\dimen260
-\multicolsep=\skip79
-\multicolbaselineskip=\skip80
-\partial@page=\box64
-\last@line=\box65
-\mult@rightbox=\box66
-\mult@grightbox=\box67
-\mult@gfirstbox=\box68
-\mult@firstbox=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\c@columnbadness=\count177
-\c@finalcolumnbadness=\count178
-\last@try=\dimen261
-\multicolovershoot=\dimen262
-\multicolundershoot=\dimen263
-\mult@nat@firstbox=\box87
-\colbreak@box=\box88
-\multicol@sort@counter=\count179
-)
-(examples/resume.aux)
-\openout1 = `resume.aux'.
+(examples/cv.aux)
+\openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
@@ -1119,7 +1070,7 @@ LaTeX Info: Redefining \selectfont on input line 76.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\g_fontspec_family_latinmodern-math.otf_int=\count180
+\g_fontspec_family_latinmodern-math.otf_int=\count171
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -1153,7 +1104,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
 put line 76.
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box89
+\AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring OFF on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1162,124 +1113,102 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count181
+\c@section@level=\count172
 )
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
 
-(examples/resume.out) (examples/resume.out)
+(examples/cv.out) (examples/cv.out)
 \@outlinefile=\write5
-\openout5 = `resume.out'.
+\openout5 = `cv.out'.
 
-\headertextwidth=\skip81
-\headerphotowidth=\skip82
+\headertextwidth=\skip79
+\headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 80.
+(Font)              scaled to size 10.95015pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.66507pt on input line 80.
+(Font)              scaled to size 7.66507pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.47507pt on input line 80.
+(Font)              scaled to size 5.47507pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 80.
+(Font)              scaled to size 10.94983pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66484pt on input line 80.
+(Font)              scaled to size 7.66484pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4749pt on input line 80.
+(Font)              scaled to size 5.4749pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 80.
+(Font)              scaled to size 7.6pt on input line 81.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 80.
+(Font)              scaled to size 7.6pt on input line 81.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 81.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 81.
 
-Overfull \hbox (1.47461pt too wide) in paragraph at lines 80--81
-[]$[]$ $[]$$[]$
+Overfull \hbox (1.47461pt too wide) in paragraph at lines 81--81
+[]$[]$ $[]$$[]$ 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-(examples/resume/summary.tex
+(examples/cv/education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
-) (examples/resume/education.tex
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(1)/m/it' tried instead on inp
-ut line 27.
+ut line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(1)/m/it' tried instead on inp
-ut line 27.
+ut line 22.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 27.
-)
-(examples/resume/experience.tex
-Overfull \hbox (2.94922pt too wide) in paragraph at lines 95--109
-   [] 
- []
-
-[1
-
-]) (examples/resume/skills.tex
-Runaway argument?
-{\begin {cvitems_3} \item {Embedded Linux Development} \item {Microco\ETC.
-! Paragraph ended before \cvskill was complete.
-<to be read again> 
-                   \par 
-l.31 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-Overfull \hbox (50.8308pt too wide) in alignment at lines 10--51
+(Font)              scaled to size 8.0pt on input line 22.
+) (examples/cv/skills.tex
+Overfull \hbox (24.8008pt too wide) in alignment at lines 10--28
 [] [] 
  []
 
-) (examples/resume/ref.tex
-! Misplaced alignment tab character &.
-l.9 ...jay Suryawanshi, Deputy General Manager, L&
-                                                  T Infotech (India), Email-...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+) (examples/cv/experience.tex [1
 
-) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
- (examples/resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
+]) (examples/cv/extracurricular.tex)
+(examples/cv/honors.tex
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
+) (examples/cv/presentation.tex)
+(examples/cv/writing.tex [2]) (examples/cv/committees.tex) [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+ (examples/cv.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 39597 strings out of 493918
- 743460 string characters out of 6150564
- 881834 words of memory out of 5000000
- 42340 multiletter control sequences out of 15000+600000
- 6406 words of font info for 77 fonts, out of 8000000 for 9000
+ 39521 strings out of 493918
+ 742702 string characters out of 6150564
+ 874803 words of memory out of 5000000
+ 42252 multiletter control sequences out of 15000+600000
+ 6446 words of font info for 82 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 72i,11n,83p,10448b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,83p,10423b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on examples/resume.pdf (2 pages).
+Output written on examples/cv.pdf (3 pages).

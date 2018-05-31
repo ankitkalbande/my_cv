@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  21 MAY 2018 10:58
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2017.8.6)  19 NOV 2017 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1209,64 +1209,46 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 10.
 ) (examples/resume/education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
+(Font)              scaled to size 10.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(1)/m/it' tried instead on inp
-ut line 27.
+ut line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(1)/m/it' tried instead on inp
-ut line 27.
+ut line 31.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 31.
 )
 (examples/resume/experience.tex
-Overfull \hbox (2.94922pt too wide) in paragraph at lines 95--109
+Overfull \hbox (2.94922pt too wide) in paragraph at lines 111--129
    [] 
  []
 
 [1
 
-]) (examples/resume/skills.tex
-Runaway argument?
-{\begin {cvitems_3} \item {Embedded Linux Development} \item {Microco\ETC.
-! Paragraph ended before \cvskill was complete.
-<to be read again> 
-                   \par 
-l.31 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+]) (examples/resume/project.tex
+Overfull \hbox (2.94922pt too wide) in paragraph at lines 20--37
+   [] 
+ []
 
-
-Overfull \hbox (50.8308pt too wide) in alignment at lines 10--51
+) (examples/resume/skills.tex
+Overfull \hbox (50.8308pt too wide) in alignment at lines 10--58
 [] [] 
  []
 
-) (examples/resume/ref.tex
-! Misplaced alignment tab character &.
-l.9 ...jay Suryawanshi, Deputy General Manager, L&
-                                                  T Infotech (India), Email-...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-) [2]
+) (examples/resume/honors.tex) [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (examples/resume.aux)
@@ -1274,9 +1256,9 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 39597 strings out of 493918
- 743460 string characters out of 6150564
- 881834 words of memory out of 5000000
+ 39601 strings out of 493918
+ 743533 string characters out of 6150564
+ 880899 words of memory out of 5000000
  42340 multiletter control sequences out of 15000+600000
  6406 words of font info for 77 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
